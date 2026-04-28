@@ -6,21 +6,21 @@
   "footerText": "Pirate Helper • Sail the SMP seas",
   "footerIcon": "https://cdn.discordapp.com/embed/avatars/0.png",
   "ownerIds": [
-    "1480569555355963513"
+    ""
   ],
   "developers": [
-    "1480569555355963513"
+    ""
   ],
   "premiumUsers": [
-    "1480569555355963513"
+    ""
   ],
   "server": {
-    "name": "Pirate SMP",
-    "javaIp": "piratesmp.sagarmathanp.fun:25567",
+    "name": "",
+    "javaIp": "",
     "javaVersion": "1.21.x",
-    "bedrockIp": "piratesmp.sagarmathanp.fun",
-    "bedrockPort": 25567,
-    "website": "Soon",
+    "bedrockIp": "",
+    "bedrockPort": ,
+    "website": "",
     "supportInvite": "https://discord.gg/your-invite"
   },
   "links": {
@@ -28,7 +28,7 @@
     "support": ""
   },
   "channels": {
-    "whitelistRequests": "1497881128542011392",
+    "whitelistRequests": "",
     "ticketCategory": "",
     "transcriptLog": "",
     "announcement": ""
